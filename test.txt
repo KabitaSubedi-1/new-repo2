@@ -4,3 +4,4 @@ Hello and welcome
 This line was added in feature1 branch
 How you doing today?
 Hello and welcome to the main branch
+Hello and welcome to Merge conflicts
